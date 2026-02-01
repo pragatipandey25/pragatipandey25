@@ -1,4 +1,4 @@
-😊 About Me:
+<h1>😊 About Me:</h1>
 💻 Proficient in React.js, HTML, CSS, and JavaScript for building responsive web applications<br>🧠 Strong programming foundation in Java, C++, C, and Python<br>🗄️ Experience working with SQL and relational database management systems<br>📊 Currently learning Data Science, including Python, data analysis, and data visualization<br>⚙️ Solid understanding of Data Structures and Algorithms<br>🚀 Interested in Full-Stack Development and data-driven application development<br>📚 Continuous learner with a passion for building real-world, impactful projects
 
 
