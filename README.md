@@ -1,5 +1,12 @@
-<h1>😊 About Me:</h1>
-💻 Proficient in React.js, HTML, CSS, and JavaScript for building responsive web applications<br>🧠 Strong programming foundation in Java, C++, C, and Python<br>🗄️ Experience working with SQL and relational database management systems<br>📊 Currently learning Data Science, including Python, data analysis, and data visualization<br>⚙️ Solid understanding of Data Structures and Algorithms<br>🚀 Interested in Full-Stack Development and data-driven application development<br>📚 Continuous learner with a passion for building real-world, impactful projects
+<h1>Hey, I’m Pragati Pandey 👋</h1>
+
+💻 Full-Stack Developer specializing in MERN stack & Next.js, focused on building scalable and real-time web applications  <br>
+⚡ Experienced in developing projects like chat applications and video conferencing platforms using Socket.io and WebRTC  <br>
+🧠 Strong problem-solving skills with 400+ Data Structures and Algorithms problems solved  <br>
+🛠️ Skilled in React.js, Node.js, Express.js, MongoDB, JavaScript, and Tailwind CSS <br> 
+⚙️ Solid foundation in Core Computer Science concepts including OOPS, DBMS, and Operating Systems <br> 
+🚀 Open Source Contributor passionate about building impactful and user-centric software solutions <br> 
+📚 Constant learner, always exploring new technologies and improving development skills  <br>
 
 
 ## 🌐 Socials:
