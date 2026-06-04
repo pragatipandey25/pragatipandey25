@@ -7,13 +7,7 @@
 ⚙️ Solid foundation in OOP, DBMS, Operating Systems, and Software Engineering. <br>
 🚀 Open Source Contributor passionate about creating impactful and user-centric solutions. <br>
 
-Or an even more concise version:
 
-💻 Full-Stack Developer | MERN Stack & Next.js <br>
-🚀 Building scalable, real-time web applications. <br>
-⚡ Experienced with Socket.io, WebRTC, React.js, Node.js, and MongoDB. <br>
-🧠 Solved 400+ DSA problems with strong CS fundamentals. <br>
-🌱 Open Source Contributor and continuous learner. <br>
 
 
 
