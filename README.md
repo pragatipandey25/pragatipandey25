@@ -3,7 +3,7 @@
 💻 Full-Stack Developer specializing in MERN Stack and Next.js, building scalable and real-time web applications. <br>
 ⚡ Experienced in developing chat and video conferencing platforms using Socket.io and WebRTC. <br>
 🛠️ Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript, and Tailwind CSS. <br>
-🧠 Strong problem-solving skills with 600+ DSA problems solved. <br>
+🧠 Strong problem-solving skills with 500+ DSA problems solved. <br>
 ⚙️ Solid foundation in OOP, DBMS, Operating Systems, and Software Engineering. <br>
 🚀 Open Source Contributor passionate about creating impactful and user-centric solutions. <br>
 
