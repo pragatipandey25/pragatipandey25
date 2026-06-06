@@ -1,11 +1,12 @@
 <h1>Hey, I’m Pragati Pandey 👋</h1>
 
-💻 Full-Stack Developer specializing in MERN Stack and Next.js, building scalable and real-time web applications. <br>
-⚡ Experienced in developing chat and video conferencing platforms using Socket.io and WebRTC. <br>
-🛠️ Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript, and Tailwind CSS. <br>
+💻 Full-Stack Developer passionate about building scalable, real-time, and user-centric web applications. <br>
+🚀 Experienced in developing modern web solutions using MERN Stack, Next.js, Socket.io, and WebRTC. <br>
+🔐 Interested in Cybersecurity and Secure Software Development. <br>
 🧠 Strong problem-solving skills with 500+ DSA problems solved. <br>
 ⚙️ Solid foundation in OOP, DBMS, Operating Systems, and Software Engineering. <br>
-🚀 Open Source Contributor passionate about creating impactful and user-centric solutions. <br>
+🌱 Continuously learning, contributing to open source, and building impactful projects. <br>
+✨ Always excited to collaborate, innovate, and turn ideas into meaningful software.
 
 
 
