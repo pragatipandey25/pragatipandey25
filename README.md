@@ -1,4 +1,4 @@
-<h1>Hiieee, I’m Pragati Pandey 👋</h1>
+<h1>Heyy, I’m Pragati Pandey 👋</h1>
 
 💻 Full-Stack Developer passionate about building scalable, real-time, and user-centric web applications. <br>
 🚀 Experienced in developing modern web solutions using MERN Stack, Next.js, Socket.io, and WebRTC. <br>
