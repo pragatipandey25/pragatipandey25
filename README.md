@@ -3,7 +3,7 @@
 💻 Full-Stack Developer passionate about building scalable, real-time, and user-centric web applications. <br>
 🚀 Experienced in developing modern web solutions using MERN Stack, Next.js, Socket.io, and WebRTC. <br>
 🔐 Interested in Cybersecurity and Secure Software Development. <br>
-🧠 Strong problem-solving skills with 700+ DSA problems solved. <br>
+🧠 Strong problem-solving skills with 600+ DSA problems solved. <br>
 ⚙️ Solid foundation in OOP, DBMS, Operating Systems, and Software Engineering. <br>
 🌱 Continuously learning, contributing to open source, and building impactful projects. <br>
 ✨ Always excited to collaborate, innovate, and turn ideas into meaningful software.
