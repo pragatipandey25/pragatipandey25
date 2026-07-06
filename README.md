@@ -16,14 +16,14 @@
 
 ##  About Me
 
-💻 Passionate **Full-Stack Developer** focused on building scalable, secure, and user-centric applications.
-🚀 Experienced with **MERN Stack, Next.js, Socket.io, WebRTC, FastAPI, and modern web technologies.**
-🤖 Currently exploring **Artificial Intelligence, Machine Learning, and Generative AI** while integrating AI into real-world applications.
-🔐 Interested in **Cybersecurity** and **Secure Software Development**.
-🧠 Strong problem-solving skills with **600+ DSA problems solved**.
-⚙️ Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering.**
-🌱 Passionate about open source, continuous learning, and building impactful products.
-✨ Always excited to collaborate on innovative projects.
+💻 Passionate **Full-Stack Developer** focused on building scalable, secure, and user-centric applications.<br>
+🚀 Experienced with **MERN Stack, Next.js, Socket.io, WebRTC, FastAPI, and modern web technologies.**<br>
+🤖 Currently exploring **Artificial Intelligence, Machine Learning, and Generative AI** while integrating AI into real-world applications.<br>
+🔐 Interested in **Cybersecurity** and **Secure Software Development**.<br>
+🧠 Strong problem-solving skills with **600+ DSA problems solved**.<br>
+⚙️ Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering.**<br>
+🌱 Passionate about open source, continuous learning, and building impactful products.<br>
+✨ Always excited to collaborate on innovative projects.<br>
 
 ---
 
