@@ -145,19 +145,7 @@
 
 ---
 
-# 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=pragatipandey25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-# 🐍 Contribution Snake
-
-> Enable this with GitHub Actions.
-
-```text
-https://raw.githubusercontent.com/pragatipandey25/pragatipandey25/output/github-contribution-grid-snake-dark.svg
-```
 
 ---
 
