@@ -4,9 +4,6 @@
 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🚀 Open Source Learner
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Web+Applications;600%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pragatipandey25&label=Profile+Views&color=blueviolet&style=flat-square"/>
@@ -139,15 +136,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pragatipandey25&theme=tokyonight&margin-w=10&margin-h=10)
-
----
-
-
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
