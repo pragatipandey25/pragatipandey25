@@ -59,13 +59,11 @@
 </p>
 
 ---
-# 🛠️ Tech Stack
-
----
+# 💻 Tech Stack
 
 ## 👨‍💻 Languages
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -74,9 +72,17 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
 </p>
 
+## 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
 ## 🌐 Frontend
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap" />
@@ -88,7 +94,7 @@
 
 ## ⚙️ Backend
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -97,7 +103,7 @@
 
 ## 🗄️ Database & Cloud
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" />
@@ -106,16 +112,13 @@
   <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" />
 </p>
 
-## 🎨 Design & Tools
+## 🛠️ Design & Tools
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge" />
 </p>
 
 ---
