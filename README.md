@@ -151,8 +151,14 @@
 ---
 
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h2 align="center">✨ Thanks for Visiting My GitHub! ✨</h2>
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories!
+Thanks for stopping by! I'm passionate about building impactful software and continuously learning new technologies. 🚀<br>
+If you found my projects interesting or useful, consider giving them a ⭐.<br>
+Your support is greatly appreciated!
+</p>
+
+<p align="center">
+<b>Happy Coding! 👨‍💻</b>
 </p>
