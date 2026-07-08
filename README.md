@@ -18,7 +18,7 @@
 🤖 Currently exploring **Artificial Intelligence, Machine Learning, and Generative AI** while integrating AI into real-world applications.<br>
 🔐 Interested in **Cybersecurity** and **Secure Software Development**.<br>
 🧠 Strong problem-solving skills with **600+ DSA problems solved**.<br>
-⚙️ Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering.**<br>
+⚙️ Strong foundation in **DSA, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering.**<br>
 🌱 Passionate about open source, continuous learning, and building impactful products.<br>
 ✨ Always excited to collaborate on innovative projects.<br>
 
