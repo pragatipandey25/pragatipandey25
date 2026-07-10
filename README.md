@@ -160,5 +160,5 @@ Your support is greatly appreciated!
 </p>
 
 <p align="center">
-<b>Happy Coding! 👨‍💻</b>
+<b>Happy Coding! </b>
 </p>
