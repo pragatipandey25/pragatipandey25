@@ -1,26 +1,46 @@
-<h1 align="center">Hey, I'm Pragati Pandey 👋</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🚀 Open Source Learner
-</h3>
+# Hey there! 👋 I'm Pragati Pandey
 
+### 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🚀 Open Source Contributor
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pragatipandey25&label=Profile+Views&color=blueviolet&style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;AI+%26+Machine+Learning+Explorer;600%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=pragatipandey25&label=Profile+Views&color=7F52FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/pragatipandey25?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/pragatipandey25?style=for-the-badge"/>
+
 </p>
+
+</div>
 
 ---
 
-##  About Me
+# 🚀 About Me
 
-💻 Passionate **Full-Stack Developer** focused on building scalable, secure, and user-centric applications.<br>
-🚀 Experienced with **MERN Stack, Next.js, Socket.io, WebRTC, FastAPI, and modern web technologies.**<br>
-🤖 Currently exploring **Artificial Intelligence, Machine Learning, and Generative AI** while integrating AI into real-world applications.<br>
-🔐 Interested in **Cybersecurity** and **Secure Software Development**.<br>
-🧠 Strong problem-solving skills with **600+ DSA problems solved**.<br>
-⚙️ Strong foundation in **DSA, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering.**<br>
-🌱 Passionate about open source, continuous learning, and building impactful products.<br>
-✨ Always excited to collaborate on innovative projects.<br>
+💻 Full-Stack Developer passionate about creating scalable, secure, and user-friendly applications.
+
+✨ I enjoy transforming ideas into impactful digital experiences using modern technologies.
+
+### Currently Exploring
+
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- ⚡ System Design
+
+### Highlights
+
+- 🚀 600+ DSA Problems Solved
+- 💼 MERN Stack & Next.js Developer
+- 📹 Built Real-Time Chat & Video Calling Platforms
+- 🌐 Experience with FastAPI, WebRTC & Socket.io
+- 📚 Strong CS Fundamentals (DSA, DBMS, OS, CN, OOP)
 
 ---
 
@@ -28,137 +48,153 @@
 
 <p align="center">
 
+<a href="https://portfolio-link">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
 <a href="https://linkedin.com/in/pragati-pandey-25f2006">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/pragatii_pandey">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@pragatipandey5624">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://stackoverflow.com/users/31217485">
-<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-
-<a href="https://quora.com/profile/Pragati-Pandey-300">
-<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
-</a>
-
-<a href="https://pinterest.com/pragatipandey454">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:pragatipandey454@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/pragatipandey25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
+
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-</p>
+### Languages
 
-## 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+### Frontend
 
-## 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite"/>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" />
-</p>
+### Backend
 
-## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" />
-</p>
+### Database & Cloud
 
-## 🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,netlify"/>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" />
-</p>
+### AI / ML
 
-## 🛠️ Design & Tools
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva" />
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 💬 Real-Time Chat App | MERN + Socket.io based real-time chat application. |
-| 📹 Video Calling Platform | WebRTC-powered video calling with authentication. |
-| 🌐 Full-Stack Web Apps | Responsive web applications using React, Next.js, and Node.js. |
-| 🤖 AI Projects | Exploring AI/ML and Generative AI with Python. |
+| Project | Tech Stack |
+|----------|------------|
+| 💬 Real-Time Chat Application | MERN • Socket.io |
+| 📹 Video Calling Platform | WebRTC • React |
+| 🌐 Full Stack Applications | Next.js • Node.js |
+| 🤖 AI-Powered Projects | Python • FastAPI |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=pragatipandey25&theme=tokyonight&show_icons=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=pragatipandey25&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pragatipandey25&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pragatipandey25&layout=compact&theme=tokyonight)
+<img height="170" src="https://streak-stats.demolab.com?user=pragatipandey25&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipandey25&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pragatipandey25&theme=tokyonight&row=1&column=7"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=pragatipandey25&theme=tokyo-night)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragatipandey25&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-
-<h2 align="center">✨ Thanks for Visiting My GitHub! ✨</h2>
-
-<p align="center">
-Thanks for stopping by! I'm passionate about building impactful software and continuously learning new technologies. 🚀<br>
-If you found my projects interesting or useful, consider giving them a ⭐.<br>
-Your support is greatly appreciated!
-</p>
+# 🎯 Coding Profiles
 
 <p align="center">
-<b>Happy Coding! </b>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
 </p>
+
+---
+
+# 💡 Fun Fact
+
+```text
+while(alive){
+    eat();
+    code();
+    learn();
+    sleep();
+    repeat();
+}
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+*"Code with purpose. Learn without limits. Build for impact."* 🚀
+
+If you like my work, consider ⭐ starring my repositories.
+
+</div>
