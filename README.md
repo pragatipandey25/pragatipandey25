@@ -160,7 +160,7 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 <p align="center">
 
 <a href="https://leetcode.com/u/pragatii_pandey/">
-<img src="https://leetcard.jacoblin.cool/pragatii_pandey?theme=tokyonight&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/pragatii_pandey?theme=tokyonight&font=Poppins&ext=contest" width="350"/>
 </a>
 
 </p>
