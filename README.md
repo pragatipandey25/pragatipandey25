@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<a href="https://portfolio-link">
+<a href="https://portfolio-link](https://pragati-pandey-portfolio.vercel.app"/>
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
