@@ -129,16 +129,6 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragatipandey25&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
