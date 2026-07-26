@@ -1,19 +1,17 @@
 <div align="center">
 
-# Hey there! 👋 I'm Pragati Pandey
+# 👋 Hey there! I'm Pragati Pandey
 
-### 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🚀 Open Source Contributor
+### 💻 Full-Stack Developer • 🤖 AI Engineer • 🚀 Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;AI+%26+Machine+Learning+Explorer;600%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer+%7C+Generative+AI+Explorer;Next.js+%7C+MERN+Stack+Developer;Building+Scalable+Web+Applications;600%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
 
 <p>
-
 <img src="https://komarev.com/ghpvc/?username=pragatipandey25&label=Profile+Views&color=7F52FF&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/pragatipandey25?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/stars/pragatipandey25?style=for-the-badge"/>
-
 </p>
 
 </div>
@@ -22,25 +20,25 @@
 
 # 🚀 About Me
 
-💻 Full-Stack Developer passionate about creating scalable, secure, and user-friendly applications.
+I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building scalable web applications, AI-powered products, and seamless digital experiences.
 
-✨ I enjoy transforming ideas into impactful digital experiences using modern technologies.
-
-### Currently Exploring
+### 🌱 Currently Exploring
 
 - 🤖 Artificial Intelligence & Generative AI
 - 🧠 Machine Learning
 - ☁️ Cloud Computing
 - 🔐 Cybersecurity
-- ⚡ System Design
+- ⚡ System Design & Scalable Architectures
 
-### Highlights
+### ✨ Highlights
 
-- 🚀 600+ DSA Problems Solved
-- 💼 MERN Stack & Next.js Developer
-- 📹 Built Real-Time Chat & Video Calling Platforms
-- 🌐 Experience with FastAPI, WebRTC & Socket.io
-- 📚 Strong CS Fundamentals (DSA, DBMS, OS, CN, OOP)
+- 🚀 Built multiple production-ready Full Stack & AI applications
+- 💻 Specialized in **Next.js, React, Node.js, Express, FastAPI & MongoDB**
+- 🤖 Developing AI-powered applications using **Gemini AI & Python**
+- 📹 Experience with **WebRTC**, **Socket.io**, and real-time systems
+- 🧠 Solved **600+ DSA problems**
+- 📚 Strong foundation in **DSA, OOP, DBMS, Operating Systems, Computer Networks & Software Engineering**
+- 🌍 Passionate about Open Source and Continuous Learning
 
 ---
 
@@ -48,7 +46,7 @@
 
 <p align="center">
 
-<a href="https://portfolio-link](https://pragati-pandey-portfolio.vercel.app"/>
+<a href="https://pragati-pandey-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -74,29 +72,27 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 ### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,netlify" />
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 
 </div>
 
@@ -104,12 +100,12 @@
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack |
-|----------|------------|
-| 💬 Real-Time Chat Application | MERN • Socket.io |
-| 📹 Video Calling Platform | WebRTC • React |
-| 🌐 Full Stack Applications | Next.js • Node.js |
-| 🤖 AI-Powered Projects | Python • FastAPI |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **Intervix-AI** | AI-powered interview preparation platform featuring mock interviews, resume analysis, AI feedback, and performance insights. | Next.js • TypeScript • Gemini AI • Firebase |
+| 💬 **BlinkTalk** | Real-time chat platform with authentication, instant messaging, online presence, and media sharing. | MERN • Socket.io • MongoDB • JWT |
+| 📄 **CVAnalyzer** | AI-powered resume analyzer providing ATS score, resume insights, and personalized improvement suggestions. | Next.js • FastAPI • Python • Gemini AI |
+| 🎥 **Meet-Flow** | Secure video conferencing platform supporting HD meetings, authentication, screen sharing, and scheduling. | Next.js • Stream SDK • Clerk • Tailwind CSS |
 
 ---
 
@@ -131,7 +127,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -155,19 +151,19 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/your-username">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/user/your-profile">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/your-username">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/your-username">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
@@ -175,15 +171,15 @@
 
 ---
 
-# 💡 Fun Fact
+# 💡 Developer Philosophy
 
-```text
-while(alive){
-    eat();
-    code();
-    learn();
-    sleep();
-    repeat();
+```cpp
+while (learning) {
+    Build();
+    Break();
+    Debug();
+    Improve();
+    Repeat();
 }
 ```
 
@@ -191,10 +187,10 @@ while(alive){
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ✨ Thanks for Visiting!
 
-*"Code with purpose. Learn without limits. Build for impact."* 🚀
+*"Building intelligent software, solving real-world problems, and continuously pushing the boundaries of technology."*
 
-If you like my work, consider ⭐ starring my repositories.
+⭐ **If you enjoy my work, consider starring my repositories!**
 
 </div>
