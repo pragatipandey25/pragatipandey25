@@ -56,7 +56,7 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/pragatii_pandey">
+<a href="https://www.instagram.com/pragatii_pandey/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
