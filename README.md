@@ -1,17 +1,19 @@
 <div align="center">
 
-# 👋 Hey there! I'm Pragati Pandey
+# Hey there! 👋 I'm Pragati Pandey
 
-### 💻 Full-Stack Developer • 🤖 AI Engineer • 🚀 Open Source Contributor
+### 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🚀 Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer+%7C+Generative+AI+Explorer;Next.js+%7C+MERN+Stack+Developer;Building+Scalable+Web+Applications;600%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;AI+%26+Machine+Learning+Explorer;600%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
 
 <p>
+
 <img src="https://komarev.com/ghpvc/?username=pragatipandey25&label=Profile+Views&color=7F52FF&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/pragatipandey25?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/stars/pragatipandey25?style=for-the-badge"/>
+
 </p>
 
 </div>
