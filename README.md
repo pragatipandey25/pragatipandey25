@@ -147,23 +147,32 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 <p align="center">
 
-<a href="https://leetcode.com/your-username">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/pragatii_pandey/">
+<img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/your-profile">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.codechef.com/users/your-username">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://codeforces.com/profile/your-username">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+<a href="https://www.hackerrank.com/profile/pragatipandey454">
+<img src="https://img.shields.io/badge/HackerRank-5★%20in%205%20Languages-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/pragatii_pandey/">
+<img src="https://leetcard.jacoblin.cool/pragatii_pandey?theme=tokyonight&font=Poppins&ext=contest"/>
+</a>
+
+</p>
+
+---
+
+## 🏅 Coding Achievements
+
+- 🧠 Solved **600+ problems on LeetCode** across Data Structures & Algorithms.
+- ⭐ Earned **5★ ratings in 5 programming languages** on HackerRank.
+- 💻 Strong foundation in **Data Structures, Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**.
+- 🚀 Passionate about competitive programming and problem-solving.
 
 ---
 
