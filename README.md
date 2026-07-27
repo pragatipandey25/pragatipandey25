@@ -115,10 +115,21 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pragatipandey25/github-stats/master/generated/overview.svg" />
-</p>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pragatipandey25&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=pragatipandey25&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipandey25&layout=compact&theme=tokyonight"/>
+
+</div> 
 
 # 📈 Contribution Graph
 
