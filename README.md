@@ -115,21 +115,33 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 ---
 
-# 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pragatipandey25&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pragatipandey25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=pragatipandey25&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pragatipandey25&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipandey25&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipandey25&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
 
-</div> 
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pragatipandey25&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragatipandey25&theme=tokyonight"/>
+
+</div>
 
 # 📈 Contribution Graph
 
