@@ -114,14 +114,13 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 | 🎥 **Meet-Flow** | Secure video conferencing platform supporting HD meetings, authentication, screen sharing, and scheduling. | Next.js • Stream SDK • Clerk • Tailwind CSS |
 
 ---
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pragatipandey25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragatipandey25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pragatipandey25&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=pragatipandey25&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -129,9 +128,9 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipandey25&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipandey25&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pragatipandey25&theme=tokyonight"/>
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragatipandey25&theme=tokyonight"/>
 
 </div>
 
@@ -139,7 +138,7 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 <div align="center">
 
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragatipandey25&theme=tokyonight"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pragatipandey25&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
