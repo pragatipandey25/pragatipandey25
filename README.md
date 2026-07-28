@@ -150,13 +150,7 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 </div>
 
-# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragatipandey25&theme=tokyo-night"/>
-
-</div>
 
 ---
 
