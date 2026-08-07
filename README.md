@@ -117,9 +117,9 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragatipandey25&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile"/>
+
+<div align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=pragatipandey25&theme=radical&hide_border=true"/>
 
@@ -129,45 +129,7 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipandey25&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragatipandey25&theme=radical"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pragatipandey25&theme=react-dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pragatipandey25&theme=radical"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pragatipandey25&theme=radical"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pragatipandey25&theme=radical"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pragatipandey25&theme=radical&utcOffset=5.5"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragatipandey25&theme=radical&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </div>
 
