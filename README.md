@@ -29,7 +29,7 @@ I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building
 - 🤖 Artificial Intelligence & Generative AI
 - 🧠 Machine Learning
 - 🔐 Cybersecurity
-- ⚡ System Design & Scalable Architectures
+- ⚡ System Design and Scalable Architectures
 
 ### ✨ Highlights
 
