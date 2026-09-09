@@ -22,7 +22,7 @@
 
 # 🚀 About Me
 
-I'm **Pragati Pandey**, a passionate **Full-Stack Developer** who loves building scalable web applications, AI-powered products, and seamless digital experiences.
+I'm **Pragati Pandey**, a passionate **Software Development Engineer** who loves building scalable web applications, AI-powered products, and seamless digital experiences.
 
 ### 🌱 Currently Exploring
 
