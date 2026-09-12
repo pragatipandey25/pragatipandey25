@@ -29,7 +29,7 @@ I'm **Pragati Pandey**, a passionate **Software Development Engineer** who loves
 - 🤖 Artificial Intelligence & Generative AI
 - 🧠 Machine Learning
 - 🔐 Cybersecurity
-- ⚡ System Design and Scalable Architectures
+
 
 ### ✨ Highlights
 
