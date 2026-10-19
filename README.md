@@ -116,11 +116,12 @@ I'm **Pragati Pandey**, a passionate **Software Development Engineer** who loves
 
 
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=pragatipandey25&theme=radical&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=pragatipandey25&theme=radical&hide_border=true" />
 
 </div>
 
@@ -128,11 +129,12 @@ I'm **Pragati Pandey**, a passionate **Software Development Engineer** who loves
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pragatipandey25&theme=react-dark&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pragatipandey25&theme=rogue&hide_border=true" />
 
 </div>
 
 ---
+
 
 
 # 🎯 Coding Profiles
