@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🚀 Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;AI+%26+Machine+Learning+Explorer;600%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=B08968&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;AI+%26+Machine+Learning+Explorer;600%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
 
 <p>
 
