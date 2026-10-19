@@ -103,14 +103,16 @@ I'm **Pragati Pandey**, a passionate **Software Development Engineer** who loves
 
 ---
 
+
 # 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 **Intervix-AI** | AI-powered interview preparation platform featuring mock interviews, resume analysis, AI feedback, and performance insights. | Next.js • TypeScript • Gemini AI • Firebase |
-| 💬 **BlinkTalk** | Real-time chat platform with authentication, instant messaging, online presence, and media sharing. | MERN • Socket.io • MongoDB • JWT |
-| 📄 **CVAnalyzer** | AI-powered resume analyzer providing ATS score, resume insights, and personalized improvement suggestions. | Next.js • FastAPI • Python • Gemini AI |
-| 🎥 **Meet-Flow** | Secure video conferencing platform supporting HD meetings, authentication, screen sharing, and scheduling. | Next.js • Stream SDK • Clerk • Tailwind CSS |
+| ⚖️ **[Lexi-AI](https://github.com/pragatipandey25/Lexi-AI)** | AI-powered legal document assistant that analyzes contracts, detects risky clauses, generates simplified summaries, and explains legal terms in Hindi and English. | MERN • Gemini AI • JWT • PDF Processing |
+| 🤖 **[Intervix-AI](https://intervix-ai.vercel.app/sign-up)** | AI-powered interview preparation platform featuring mock interviews, AI-generated questions, personalized feedback, and performance analytics. | React • Node.js • MongoDB • Gemini AI • JWT |
+| 💬 **[BlinkTalk](https://blinktalk-2kro.onrender.com/)** | Real-time chat application featuring secure authentication, instant messaging, online presence, and live communication. | MERN • Socket.io • MongoDB • JWT |
+| 🎥 **[Meet-Flow](https://meet-flow-sigma.vercel.app/)** | Video conferencing platform featuring online meetings, authentication, screen sharing, and meeting scheduling. | Next.js • Stream SDK • Clerk • Tailwind CSS |
+
 
 ---
 
