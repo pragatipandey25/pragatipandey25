@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Pragati Pandey
+# Hey there! 👋 I'm Pragati Pandey
 
 ### 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🚀 Open Source Contributor
 
