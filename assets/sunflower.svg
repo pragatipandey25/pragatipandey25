@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <defs>
+    <!-- Dark rounded badge background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1322"/>
+      <stop offset="100%" stop-color="#04060c"/>
+    </linearGradient>
+
+    <!-- Subtle warm border -->
+    <linearGradient id="rimGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#EAB308" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <!-- Back Petal Gradient (warm amber-orange) -->
+    <linearGradient id="petalDark" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#B45309"/>
+      <stop offset="35%" stop-color="#D97706"/>
+      <stop offset="70%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+
+    <!-- Front Petal Gradient (sunny golden yellow with highlight) -->
+    <linearGradient id="petalLight" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#D97706"/>
+      <stop offset="25%" stop-color="#F59E0B"/>
+      <stop offset="65%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#FEF08A"/>
+    </linearGradient>
+
+    <!-- Center Seed Disc Radial Gradient -->
+    <radialGradient id="centerDisk" cx="40%" cy="36%" r="62%">
+      <stop offset="0%" stop-color="#78350F"/>
+      <stop offset="45%" stop-color="#451A03"/>
+      <stop offset="85%" stop-color="#240D01"/>
+      <stop offset="100%" stop-color="#140600"/>
+    </radialGradient>
+
+    <!-- Warm Golden Ambient Glow -->
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.32"/>
+      <stop offset="60%" stop-color="#F59E0B" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Dark tile base for high contrast across dark and light browser themes -->
+  <rect width="64" height="64" rx="16" fill="url(#bgGrad)" stroke="url(#rimGrad)" stroke-width="1.2"/>
+
+  <!-- Warm ambient glow -->
+  <circle cx="32" cy="32" r="26" fill="url(#sunGlow)"/>
+
+  <!-- Back layer petals (16 petals, offset) -->
+  <g id="back-petals">
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(11.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(33.75 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(56.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(78.75 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(101.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(123.75 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(146.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(168.75 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(191.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(213.75 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(236.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(258.75 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(281.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(303.75 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(326.25 32 32)" fill="url(#petalDark)"/>
+    <path d="M 32 32 C 27.2 21.5 26.2 10.5 32 4.8 C 37.8 10.5 36.8 21.5 32 32 Z" transform="rotate(348.75 32 32)" fill="url(#petalDark)"/>
+  </g>
+
+  <!-- Front layer petals (16 petals) -->
+  <g id="front-petals">
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(0.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(22.50 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(45.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(67.50 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(90.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(112.50 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(135.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(157.50 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(180.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(202.50 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(225.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(247.50 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(270.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(292.50 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(315.00 32 32)" fill="url(#petalLight)"/>
+    <path d="M 32 32 C 27.8 22 27.2 12 32 6.5 C 36.8 12 36.2 22 32 32 Z" transform="rotate(337.50 32 32)" fill="url(#petalLight)"/>
+  </g>
+
+  <!-- Petal center ridges -->
+  <g id="petal-ridges">
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(0.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(22.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(45.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(67.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(90.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(112.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(135.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(157.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(180.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(202.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(225.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(247.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(270.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(292.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(315.00 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="32" y1="26" x2="32" y2="9" transform="rotate(337.50 32 32)" stroke="#D97706" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+  </g>
+
+  <!-- Center disk outer edge shadow -->
+  <circle cx="32" cy="32" r="11.2" fill="#180701" opacity="0.75"/>
+
+  <!-- Center disk -->
+  <circle cx="32" cy="32" r="10.5" fill="url(#centerDisk)"/>
+
+  <!-- Seed pattern florets -->
+  <g id="seed-florets">
+    <circle cx="39.61" cy="35.55" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="37.67" cy="38.20" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="34.87" cy="39.89" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="31.63" cy="40.39" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="28.45" cy="39.61" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="25.80" cy="37.67" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="24.11" cy="34.87" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="23.61" cy="31.63" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="24.39" cy="28.45" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="26.33" cy="25.80" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="29.13" cy="24.11" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="32.37" cy="23.61" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="35.55" cy="24.39" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="38.20" cy="26.33" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="39.89" cy="29.13" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="40.39" cy="32.37" r="0.85" fill="#FBBF24" opacity="0.95"/>
+    <circle cx="33.02" cy="25.99" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="35.89" cy="27.30" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="37.72" cy="29.87" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="38.01" cy="33.02" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="36.70" cy="35.89" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="34.13" cy="37.72" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="30.98" cy="38.01" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="28.11" cy="36.70" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="26.28" cy="34.13" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="25.99" cy="30.98" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="27.30" cy="28.11" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="29.87" cy="26.28" r="0.8" fill="#F59E0B" opacity="0.9"/>
+    <circle cx="28.22" cy="32.39" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="29.05" cy="29.60" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="31.61" cy="28.22" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="34.40" cy="29.05" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="35.78" cy="31.61" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="34.95" cy="34.40" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="32.39" cy="35.78" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="29.60" cy="34.95" r="0.75" fill="#D97706" opacity="0.85"/>
+    <circle cx="32.23" cy="33.78" r="0.7" fill="#B45309" opacity="0.85"/>
+    <circle cx="30.22" cy="32.23" r="0.7" fill="#B45309" opacity="0.85"/>
+    <circle cx="31.77" cy="30.22" r="0.7" fill="#B45309" opacity="0.85"/>
+    <circle cx="33.78" cy="31.77" r="0.7" fill="#B45309" opacity="0.85"/>
+    <circle cx="32" cy="32" r="0.9" fill="#F59E0B" opacity="0.9"/>
+  </g>
+
+  <!-- Center disk subtle warm illumination -->
+  <circle cx="30" cy="29.2" r="3.2" fill="#FEF08A" opacity="0.22"/>
+</svg>
